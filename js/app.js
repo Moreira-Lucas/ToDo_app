@@ -25,14 +25,23 @@ function save(){
   }
 }
 function render(){
-    listaItems.map((nome)=>{
+  
+  listaItems.map((nome)=>{
         let item = document.createElement('DIV');
         item.innerHTML = `
         <li>
-        <button>Remove</button>
+        <button type="button" class="remove">Remove</button>
         <p>${nome}</p>
-        <button>Done</button>
+        <button  type="button" class="done">Done</button>
         </li>`;
         list.appendChild(item);
+         //TROUBLE FOR TO REMOVE
+        let btnRemove = document.querySelector(".remove");
+        btnRemove.onclick = () =>{
+          item.style.display = "none";
+        }
+        
     });
 };
+
+
