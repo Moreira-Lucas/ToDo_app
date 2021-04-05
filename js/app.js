@@ -38,7 +38,7 @@ function render(){
         </li>`;
 
         list.appendChild(item);
-         //TROUBLE FOR TO REMOVE
+         //TROUBLE FOuR TO REMOVE
         /*let btnRemove = document.querySelector(".remove");
         btnRemove.onclick = () =>{
           item.style.display = "none";
