@@ -58,8 +58,24 @@ function deleteTask(index){
 }
 
 function edit(index){
-note.value = listaItems[index];
+note.value =  listaItems[index];
+let pos = index;
+console.log(index)
+let btnUpdate = document.querySelector(".btnUpdate");
 
+btnUpdate.style.display = "inline";
+btnSave.style.display= "none";
+btnUpdate.addEventListener("click", ()=>{
+  let edited = listaItems[pos];
+  edited = note.value; 
+  console.log(edited);
+  listaItems[index] = edited;
+  localStorage.setItem('item',JSON.stringify(listaItems));
+  list.innerHTML="";
+  render();
+
+  
+})
 
 };
 
