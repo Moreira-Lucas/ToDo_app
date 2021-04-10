@@ -30,11 +30,11 @@ function render(){
   
         item.innerHTML = `
         
-        <li>
-        <p>${index+1}</p>
+        <li class="collection-item z-depth-1">
+        <span>${index+1}</span>
         <p>${nome}</p>
-        <button onclick="deleteTask(${index})" type="button" class="done">Delete</button>
-        <button onclick="edit(${index})" type="button" class="remove">Edit</button>
+        <button onclick="deleteTask(${index})" type="button" class="btnDeleteTask"><i class="material-icons">delete_forever</i></button>
+        <button onclick="edit(${index})" type="button" class="btnEdit"><i class="material-icons">edit</i></button>
         </li>`;
 
         list.appendChild(item);
