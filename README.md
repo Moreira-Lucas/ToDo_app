@@ -1,15 +1,17 @@
-# ToDo_app [list] (https://images.vexels.com/media/users/3/151869/isolated/preview/767ca771755f4675d4063c03e17c8595-iacute-cone-de-lista-de-verifica-ccedil-atilde-o-m-eacute-dica-by-vexels.png)
+# ToDo_app [list](./assets/img/list.png)
 
-### Este é um simples ToDo List que explora recursos do browser como **localstorage** para armazenamento.
+>### Este é um simples ToDo List que explora recursos do browser, como **localstorage** para armazenamento.
 
-##TECHS
-
-*HTML/CSS/JAVASCRIPT
-*BOOTSTRAP
-
-**STEP-BY-STEP**
-[X] Pegar o value do input ao click do button.
-[X] 
+## Tools
+* HTML
+  * MATERIALIZE
+* CSS
+* JAVASCRIPT
 
 
+__*STEP-BY-STEP*__
+>[X] Pegar o value do input ao clicar no button.
+>[X] Colocar o valor em localstorage via `localstorage.setItem()` 
+>[X] Renderizar na tela por meio da função `map`, os elementos gravados no localstorage e chamar a função no início da aplicação.
+>[x] Criar uma função para editar e uma para deletar usando o index como parâmetro.
 
