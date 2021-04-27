@@ -2,11 +2,11 @@
 
 >### Este é um simples ToDo List que explora recursos do browser, como **localstorage** para armazenamento.
 
-## Tools ![tools](/assets/img/tools.png)
-* ![html](/assets/img/html.png)
-  * ![materialize](/assets/img/materialize.png)
-* ![css](/assets/img/css.png)
-* ![javascript](/assets/img/js.png)
+## Tools ![alt=tools](/assets/img/tools.png)
+* ![alt=html](/assets/img/html.png)
+  * ![alt=materialize](/assets/img/materialize.png)
+* ![alt=css](/assets/img/css.png)
+* ![alt=javascript](/assets/img/js.png)
 
 
 __*STEP-BY-STEP*__
