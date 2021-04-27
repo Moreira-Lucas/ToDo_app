@@ -38,7 +38,7 @@ li .btnEdit i{
 
 
 
-img[alt="list"],[alt="tools"],[alt="html"],[alt="css"],[alt="javascript"],[alt="materialize"] { 
+[alt="list"],[alt="tools"],[alt="html"],[alt="css"],[alt="javascript"],[alt="materialize"] { 
     max-width:20px; 
     display: block;
   }
