@@ -1,12 +1,12 @@
-# ToDo_app ![alt=list](/assets/img/list.png)
+# ToDo_app <img src="assets/img/list.png" width="200">
 
 >### Este é um simples ToDo List que explora recursos do browser, como **localstorage** para armazenamento.
 
-## Tools ![alt=tools](/assets/img/tools.png)
-* ![alt=html](/assets/img/html.png)
-  * ![alt=materialize](/assets/img/materialize.png)
-* ![alt=css](/assets/img/css.png)
-* ![alt=javascript](/assets/img/js.png)
+## Tools <img src="assets/img/tools.png" width="100">
+* <img src="assets/img/html.png" width="50">
+  * <img src="assets/img/materialize.png" width="50">
+* <img src="assets/img/css.png" width="50">
+* <img src="assets/img/js.png" width="50">
 
 
 __*STEP-BY-STEP*__
