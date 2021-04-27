@@ -35,3 +35,10 @@ li .btnEdit i{
 .btnDeleteTask i{
     color:#b71c1c;
 }
+
+
+
+img[alt="list"],[alt="tools"],[alt="html"],[alt="css"],[alt="javascript"],[alt="materialize"] { 
+    max-width:20px; 
+    display: block;
+  }
