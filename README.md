@@ -1,4 +1,4 @@
-# ToDo_app ![list](/assets/img/list.png){width=25px}
+# ToDo_app ![alt=list](/assets/img/list.png)
 
 >### Este é um simples ToDo List que explora recursos do browser, como **localstorage** para armazenamento.
 
