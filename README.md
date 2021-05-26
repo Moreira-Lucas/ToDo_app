@@ -1,4 +1,4 @@
- <img src="https://pics.freeicons.io/uploads/icons/png/1198703521579156625-512.png" width="200">
+ <img src="https://pics.freeicons.io/uploads/icons/png/1198703521579156625-512.png" width="180">
    
  # ToDo-app
 
